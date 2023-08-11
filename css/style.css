@@ -1,0 +1,287 @@
+body{
+	background-image: url(../imgs/tema/pdf.png);
+	width: 100%;
+	font-family: 'Oswald', sans-serif;
+	src: url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+	margin: 0;
+	text-align: center;
+}
+
+.org1{
+	border-top: 1px solid #00ff00;	
+	border-left: 1px solid #00ff00;
+	border-right: 1px solid #00ff00;
+	width: 20%;
+	text-align: center;
+	color: black;
+	background: linear-gradient(90deg, rgba(2,48,11,1) 0%, 
+	rgba(4,122,15,1) 34%, rgba(2,190,66,1) 67%, rgba(0,198,92,1) 100%);	
+	filter: brightness(1.5);
+	margin-right: 2%;	
+	border-radius: 10px 10px 0px 0px;
+}
+
+.org2{
+	border-top: 1px solid #151515;
+	border-left: 1px solid #151515;
+	border-right: 1px solid #151515;
+	width: 20%;
+	text-align: center;
+	color: black;
+	background: linear-gradient(90deg, rgba(17,1,1,1) 0%, 
+	rgba(78,3,3,1) 34%, rgba(153,5,5,1) 67%, rgba(208,6,6,1) 100%);
+	filter: brightness(1.5);
+	margin-right: 2%;
+	border-radius: 10px 10px 0px 0px;
+}
+
+.org3{
+	border-top: 1px solid #46295A;
+	border-left: 1px solid #46295A;
+	border-right: 1px solid #46295A;
+	width: 20%;
+	text-align: center;
+	color: black;
+	background: linear-gradient(90deg, rgba(15,2,47,1) 0%,
+	rgba(32,4,97,1) 34%, rgba(46,6,138,1) 67%, rgba(61,8,184,1) 100%);
+	filter: brightness(1.5);
+	margin-right: 2%;	
+	border-radius: 10px 10px 0px 0px;
+}
+
+.org4{
+	border-top: 1px solid #ffffff;
+	border-left: 1px solid #ffffff;
+	border-right: 1px solid #ffffff;
+	width: 20%;
+	text-align: center;
+	color: black;
+	background: linear-gradient(90deg, rgba(64,4,73,1) 0%,
+	rgba(96,5,110,1) 34%, rgba(135,8,154,1) 67%, rgba(184,10,210,1) 100%);
+	filter: brightness(1.5);
+	margin-right: 2%;
+	border-radius: 10px 10px 0px 0px;
+}
+
+.orgpad{
+	border-top: 1px solid black;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	width: 16.5%;
+	text-align: center;
+	color: black;
+	background: white;
+	filter: brightness(1.5);
+	margin-right: 2%;
+	border-radius: 10px 10px 0px 0px;
+	border-top: 5px;
+}
+
+.ftinha{
+	width: 100%;
+	height: 40%;
+}
+
+main{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
+
+.cx{
+	background-color: black;
+	color: #FFD700;
+	border: #fffafa solid 1px;
+}
+
+form {
+	display: flex;
+	align-items: flex-end;
+	justify-content: flex-end;
+}
+
+.tema{
+	color: #DC143C;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.temars{
+	color: #DC143C;
+	display: flex;
+	align-items: flex-end;
+	justify-content: center;
+}
+
+#lg{
+	display: flex;
+	align-items: flex-start;
+	height: 100%;
+	width: 10%;
+	border-radius: 100%;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+.links{
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	border-bottom: 1px solid white;
+	filter: brightness(1.2);
+	max-height: 100px;
+	background: black;
+}
+
+#txt{
+	color: white;
+	display: flex;
+	align-items: center;
+}
+
+.cad{
+	color: white;
+	text-align: center;
+	margin-top: 10%;
+	border: 1px solid black;
+	width: 50%;
+	background: #CCFF00;
+	margin-bottom: 10px;
+	margin-left: 25%;
+	border-radius: 20px;
+}
+
+.cadinf{
+    background-color: black;
+    color: #daa520;
+    border: #daa520 solid 1px;
+	border-radius: 5px;
+}
+
+.arq{
+	display: block;
+	justify-content: center;
+}
+
+.cnt{
+	justify-content: center;
+	margin-top: 1%;
+	background: black;
+	border-radius: 1px;
+}
+
+.aviso{
+	color: yellow;
+	background: red;
+	margin: 0px 40%;
+	border-radius: 5px;
+	font-size: 30px;
+}
+
+.inf{
+	margin-top: 1%;
+	text-align: center;
+	background-color: black;
+	color: #daa520;
+	border: #daa520 solid 1px;
+}
+
+.rsorg{
+	margin-left: 5%;
+	width: 5%;
+	height: 50%;
+	display: flex;
+	align-items: center;
+	justify-content: left;
+	border: 1px solid #B8860B;
+}
+
+#rds{
+	width: 30%;
+	height: 20%;
+	margin: 50px;
+	border: 2px solid white;
+	background: black;
+	border-radius: 20px;
+}
+
+.rs1{
+	display: flex;
+	align-items: center;	
+}
+
+.rs2{
+	display: flex;
+	align-items: center;
+}
+
+.rs3{
+	display: flex;
+	align-items: center;
+}
+
+.rs4{
+	display: flex;
+	align-items: center;
+}
+
+.linha{
+	margin-left: 20%; 
+	display: flex;
+	width: 25%;
+	height: 100%
+}
+
+.influ1{
+	display: flex;
+}
+
+.influ2{
+	display: flex;
+}
+
+.influ3{
+	display: flex;
+}
+
+#cent{
+	display: flex;
+	flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
+
+.ints{
+	width: 200px;
+	height: 250px;
+	border-radius: 5px;
+	border: 1px solid #B8860B;
+	display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+
+.logoint{
+	width: 40%;
+	height: 150px;
+	margin-left: 50px;
+	border: 1px solid #B8860B;
+}
+.jg{
+	display: flex;
+	height: 300px;
+	width: 300px;
+	margin-left: 50px;
+	border-radius: 5px;
+	border: 1px solid #B8860B;
+}
