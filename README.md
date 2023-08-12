@@ -1,45 +1,39 @@
-# # Portfolio Geral de Programação - Trabalho Final
+Website de Organizações Esportivas
+Organizações Esportivas
 
-Este é o repositório do trabalho final de portfolio geral de programação, desenvolvido como parte da avaliação do conhecimento geral da sala. O objetivo deste projeto é demonstrar as habilidades e conhecimentos adquiridos ao longo do curso, seguindo as instruções fornecidas pelo professor. **É importante ressaltar que o foco do trabalho não estava na estética visual, mas sim na aplicação prática dos conceitos de programação, incluindo JavaScript e CSS.**
+Bem-vindo ao repositório do projeto Website de Organizações Esportivas. Este site foi desenvolvido como parte de um projeto focado em PHP, MySQL, HTML e CSS. O objetivo deste projeto é fornecer uma plataforma para gerenciar e apresentar organizações esportivas, seus membros, conquistas e presença nas redes sociais.
 
-## Conteúdo
+Recursos
+Veja informações detalhadas sobre várias organizações esportivas.
+Explore membros da organização, suas funções e perfis.
+Acesse uma lista de títulos e prêmios conquistados por cada organização.
+Conecte-se com as organizações por meio de links para redes sociais.
+Gerencie e atualize facilmente detalhes da organização, perfis de membros e conquistas por meio de uma interface intuitiva.
+Adicione novas organizações para expandir a plataforma.
+Tecnologias Utilizadas
+PHP: Scripting do lado do servidor para geração de conteúdo dinâmico.
+MySQL: Sistema de gerenciamento de banco de dados para armazenar e recuperar dados da organização.
+HTML: Linguagem de marcação para estruturar o conteúdo do site.
+CSS: Linguagem de folha de estilo para criar layouts visualmente atraentes e responsivos.
+Começando
+Clone este repositório para o seu ambiente de desenvolvimento local:
 
-O portfolio contém os seguintes elementos, todos desenvolvidos utilizando JavaScript:
+bash
+Copy code
+git clone https://github.com/KelsonLuciano/Trabalho-Blog.git
+Configure um servidor web local (por exemplo, XAMPP, WAMP, MAMP) para executar a aplicação PHP.
 
-1. **Página Inicial (Home):** Apresenta os dados do estudante e sua dupla, fornecendo informações básicas sobre os autores do trabalho.
+Importe o arquivo SQL do banco de dados fornecido (database.sql) para configurar o esquema do banco de dados e dados de exemplo.
 
-2. **Calculadora:** Implementa uma calculadora simples que realiza operações matemáticas básicas, permitindo que o usuário realize cálculos de forma interativa.
+Atualize a configuração do banco de dados no arquivo config.php com suas credenciais do banco de dados local.
 
-3. **Animação de Planetas:** Exibe uma animação de planetas em órbita, ilustrando conceitos de animação e transformações em JavaScript.
+Inicie o site acessando-o por meio de um navegador da web:
 
-4. **Formulário:** Oferece um formulário para coletar informações dos usuários, aplicando validações básicas nos campos e fornecendo feedback visual.
+bash
+Copy code
+http://localhost/Trabalho-Blog
+Contribuições
+Contribuições para este projeto não estão atualmente abertas. Como foi desenvolvido como parte de um projeto individual, não são esperadas contribuições externas neste momento.
 
-5. **Carrossel Infinito:** Apresenta um carrossel de imagens que se deslocam de forma infinita, demonstrando a manipulação dinâmica do DOM.
-
-## Instruções de Uso
-
-1. Clone este repositório para o seu ambiente de desenvolvimento local:
-
-   ```bash
-   git clone https://github.com/KelsonLuciano/Trabalho-Blog.git
-   ```
-
-2. Navegue para o diretório do projeto:
-
-   ```bash
-   cd Trabalho-Blog
-   ```
-
-3. Abra os arquivos HTML no seu navegador preferido para visualizar e interagir com cada componente do portfolio.
-
-## Contribuição
-
-Este projeto foi desenvolvido como um trabalho individual para a avaliação do conhecimento geral em programação, incluindo JavaScript e CSS. **O foco principal não estava na estética visual, mas sim na aplicação eficaz dos conceitos de programação.** Portanto, contribuições externas não são esperadas neste momento.
-
-## Créditos
-
-Desenvolvido por Kelson Luciano e Johana Novais.
-
----
-
-**Nota:** Este é um modelo básico de README. Sinta-se à vontade para personalizar e adicionar mais informações relevantes ao seu projeto, como capturas de tela, descrições detalhadas dos componentes, tecnologias utilizadas, entre outros. Certifique-se de atualizar as seções conforme necessário.
+Créditos
+Desenvolvido por Kelson Luciano.
