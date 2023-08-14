@@ -47,10 +47,6 @@ bash
 
 http://localhost/Trabalho-Blog
 
-### Contribuições
-
-Contribuições para este projeto não estão atualmente abertas. Como foi desenvolvido como parte de um projeto individual, não são esperadas contribuições externas neste momento.
-
 ### Créditos
 
 Desenvolvido por Kelson Luciano.
